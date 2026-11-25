@@ -66,7 +66,7 @@
 
 Coding Creed Technologies (operating as 3TG) provides a deterministic test generation platform that converts business rules written in Markdown tables into comprehensive TypeScript and React test suites. The service supports VS Code, IntelliJ, and any MCP agent, offering free and tiered paid plans for generating up to 50,000 tests per month. It emphasizes zero boilerplate, strong typing, and AI‑free deterministic outputs, targeting developers seeking reliable automated testing solutions.
 
-**Areas:** Testing · TypeScript · React · DeveloperTools · Automation · Company
+**Areas:** Testing · TypeScript · React · Developer Tools · Automation · Company
 
 ## Coding Creed Technologies on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Tg Dev Domain Security](https://apis.io/security/3tg-dev/3tg-dev-domain-security/)
-- [3Tg Dev Vulnerability Disclosure](https://apis.io/security/3tg-dev/3tg-dev-vulnerability-disclosure/)
+- [Coding Creed Technologies Domain Security](https://apis.io/security/3tg-dev/3tg-dev-domain-security/)
+- [Coding Creed Technologies Vulnerability Disclosure](https://apis.io/security/3tg-dev/3tg-dev-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -98,18 +98,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 11.5** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 11.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 14.3 |
-| Access clarity | 10.5 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 4.3 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -134,6 +134,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
